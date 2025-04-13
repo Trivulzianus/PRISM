@@ -1,0 +1,16 @@
+{
+  "precision": 0.999856918014022,
+  "recall": 0.9982857142857143,
+  "f1_score": 0.9990706984058904,
+  "auc_roc": 0.9999963469387755,
+  "train_samples": 56000,
+  "test_samples": 14000,
+  "train_test_precision_gap": -0.0001426833292568208,
+  "train_test_recall_gap": 0.0012499999999999734,
+  "train_test_f1_gap": 0.000554268108977074,
+  "cv_f1_mean": 0.9958861553955977,
+  "cv_f1_std": 0.0007094984050596965,
+  "train_test_cv_gap": 0.00021727521541881067,
+  "best_regularization_c": 1.0,
+  "confusion_matrix": {
+    "true_negative": 
